@@ -3,6 +3,8 @@
 ## Indice
 1. [Panoramica](#panoramica)
 2. [Tecnologie utilizzate](#tecnologie-utilizzate)
+3. [Modello dati](#modello-dati)  
+    - [DTO](#dto)
 
 ## Panoramica
 Questo microservizio è responsabile della memorizzazione e della gestione delle informazioni relative ai corsi universitari:
@@ -15,3 +17,9 @@ Questo microservizio è responsabile della memorizzazione e della gestione delle
 - **Message Broker**: RabbitMQ
 - **Documentazione API**: Swagger/OpenAPI 3.0
 - *__Database__: DA VEDERE*
+
+## Modello dati
+
+### DTO
+
+###### *DataTransferObject presenti nel microservizio.*
